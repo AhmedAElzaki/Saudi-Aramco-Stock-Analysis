@@ -21,6 +21,18 @@ This project analyzes the stock price of Saudi Aramco Oil Company over the past 
 - Create a prediction model for closing prices using linear regression.
 - Evaluate model performance using Mean Squared Error and R-squared metrics.
 
+## Visualizations
+
+This project includes the following visualizations:
+
+- **Price Fluctuations**: A line plot showing the closing stock prices of Saudi Aramco over the past month, highlighting trends and patterns in the stock's performance.
+
+- **Actual vs. Predicted Prices**: A table displaying the actual closing prices alongside the predicted prices from the linear regression model, providing a comparison of model performance.
+
+## Analysis Summary
+
+This analysis indicates that Saudi Aramco's stock price has remained relatively stable over the past month, with low volatility and a consistent trading volume. These insights can serve as a foundation for further exploration into factors driving stock performance and investor behavior.
+
 ## Getting Started
 
 ### Prerequisites
@@ -56,7 +68,4 @@ This project is licensed under the MIT License.
 
 Ahmed Abdelrahman Yousif Elzaki
 
-## Analysis Summary
-
-This analysis indicates that Saudi Aramco's stock price has remained relatively stable over the past month, with low volatility and a consistent trading volume. These insights can serve as a foundation for further exploration into factors driving stock performance and investor behavior.
 
