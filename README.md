@@ -1,4 +1,4 @@
-# Saudi Aramco Stock Analysis
+# Saudi Aramco Stock (22 Sep - 21 Oct 2024) Analysis
 
 ## Project Overview
 
