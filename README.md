@@ -16,10 +16,10 @@ This project analyzes the stock price of Saudi Aramco Oil Company over the past 
 
 ## Features
 
-- Retrieve historical stock data using the yfinance API.
-- Visualize stock price fluctuations.
-- Create a prediction model for closing prices using linear regression.
-- Evaluate model performance using Mean Squared Error and R-squared metrics.
+- Retrieved historical stock data using the yfinance API.
+- Visualized stock price fluctuations.
+- Created a prediction model for closing prices using linear regression.
+- Evaluated model performance using Mean Squared Error,R-squared,and Mean Absolute Error metrics.
 
 ## Visualizations
 
