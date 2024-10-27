@@ -33,7 +33,6 @@ This project includes the following visualizations:
 
 This analysis indicates that Saudi Aramco's stock price has remained relatively stable over the past month, with low volatility and a consistent trading volume. These insights can serve as a foundation for further exploration into factors driving stock performance and investor behavior.
 
-## Getting Started
 
 ### Prerequisites
 
@@ -57,7 +56,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn yfinance
 
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook stock_analysis.ipynb
+   Saudi_Aramco_stock_analysis.ipynb
    ```
 
 ## License
